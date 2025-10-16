@@ -313,6 +313,7 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  padding-bottom: 0;
 }
 
 /* EXPERIENCE SECTION */
